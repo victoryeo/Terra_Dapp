@@ -1,8 +1,8 @@
 {
-  "name": "heyjom",
+  "name": "Terra_Dapp",
   "version": "0.0.1",
-  "description": "heyjom",
-  "author": "myeg",
+  "description": "Terra_Dapp",
+  "author": "victor",
   "license": "",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
